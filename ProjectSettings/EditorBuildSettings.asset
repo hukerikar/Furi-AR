@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: e288a861be0d8334190639b24e56da63
+  - enabled: 1
+    path: Assets/Scenes/BlankAR.unity
+    guid: 6bdce89659816455b9f906fc62d19910
+  - enabled: 1
+    path: Assets/Scenes/Sofa.unity
+    guid: 3af481f2bdc42f1418483c438720f119
+  - enabled: 1
+    path: Assets/Scenes/Drawers.unity
+    guid: 28cf0de3d9daedf4ea278a190b05ab6a
+  - enabled: 1
+    path: Assets/Scenes/Chairs 1.unity
+    guid: 7551afd6fcf052f4592babb1c4c67330
+  - enabled: 1
+    path: Assets/Scenes/Chairs 2.unity
+    guid: 7d582a0abe6f63848b6eff097c18af5a
+  - enabled: 1
+    path: Assets/Scenes/Chairs 3.unity
+    guid: e1bdec0672ae3dd4193ddc5526d17cde
+  - enabled: 1
+    path: Assets/Scenes/Chairs 4.unity
+    guid: 2fbeb38559f92594498ff7e5e72030b8
+  - enabled: 1
+    path: Assets/Scenes/Chairs 5.unity
+    guid: 088265224bc5a4c4394e3259970e2159
+  - enabled: 1
+    path: Assets/Scenes/Chairs 6.unity
+    guid: 3f12ed28ac227e94db5614cdb37d64f2
+  - enabled: 1
+    path: Assets/Scenes/Chairs 7.unity
+    guid: cff7854dac5137f429b459db578fd7c2
+  - enabled: 1
+    path: Assets/Scenes/Chairs.unity
+    guid: 10936dc2fc7dd60419bbbb9304c3095d
+  - enabled: 1
+    path: Assets/Scenes/Table.unity
+    guid: 2c002cddf80772748b37f16eea7234da
+  - enabled: 1
+    path: Assets/Scenes/Table 1.unity
+    guid: b7eafa81ece08814ba6a1d5e80453924
+  - enabled: 1
+    path: Assets/Scenes/Table 2.unity
+    guid: 2b7add754129f5943bb40c1465279997
+  - enabled: 1
+    path: Assets/Scenes/Table 3.unity
+    guid: 7a66adce8a07bcb42828efc9b39b9d74
+  - enabled: 1
+    path: Assets/Scenes/Table 4.unity
+    guid: c718d90f044ec2447b9cfae89c160b1c
+  - enabled: 1
+    path: Assets/Scenes/Sofa 1.unity
+    guid: 71d0e3a1876fead4094defa603a87d34
+  - enabled: 1
+    path: Assets/Scenes/Sofa 2.unity
+    guid: c797bb8ff13d0b845acfd0f31677e0bd
+  - enabled: 1
+    path: Assets/Scenes/Drawers 1.unity
+    guid: 80229798685dd2244bfc0c9efb60ed96
+  - enabled: 1
+    path: Assets/Scenes/Drawers 2.unity
+    guid: b41e8dad246f2294bac468e8c9a266c6
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 89a6d18d3df8d3e4fa917b0f9a963bc0,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 16efbf89c85ecd34b84f85dfdd7dd37d,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6bb381a8ba31f114d9724357633b4625,
+      type: 2}
