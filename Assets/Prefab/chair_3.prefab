@@ -1007,13 +1007,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Sofa 1
+  m_text: 'Chair 3
 
-    height : 1.8m
+    height : 0.6m
 
-    width : 2.4m
+    width : 0.5m
 
-    price : $224'
+    price : $62'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
