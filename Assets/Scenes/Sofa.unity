@@ -362,7 +362,7 @@ GameObject:
   - component: {fileID: 578506701}
   - component: {fileID: 578506700}
   m_Layer: 5
-  m_Name: Drawer_01
+  m_Name: Sofa 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -440,7 +440,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Drawers 1
+          m_StringArgument: Sofa 1
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &578506701
@@ -494,7 +494,7 @@ GameObject:
   - component: {fileID: 756055404}
   - component: {fileID: 756055403}
   m_Layer: 5
-  m_Name: Drawer_02
+  m_Name: Sofa 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -572,7 +572,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Drawers 2
+          m_StringArgument: Sofa 2
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &756055404

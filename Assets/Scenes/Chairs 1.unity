@@ -1882,9 +1882,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1070025667}
   - component: {fileID: 1070025666}
-  - component: {fileID: 1070025670}
   - component: {fileID: 1070025669}
   - component: {fileID: 1070025668}
+  - component: {fileID: 1070025670}
   m_Layer: 0
   m_Name: XR Origin (XR Rig)
   m_TagString: Untagged
@@ -1981,6 +1981,7 @@ GameObject:
   - component: {fileID: 1255880923}
   - component: {fileID: 1255880922}
   - component: {fileID: 1255880927}
+  - component: {fileID: 1255880928}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -2215,6 +2216,61 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4399b290ea2657a44ae6b02d1d27f713, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1255880928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1255880919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68a076e7dedf4411b96ca259dc65ce59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_InteractionManager: {fileID: 0}
+  m_InteractionLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_InteractionLayers:
+    m_Bits: 4294967295
+  m_AttachTransform: {fileID: 0}
+  m_KeepSelectedTargetValid: 1
+  m_DisableVisualsWhenBlockedInGroup: 1
+  m_StartingSelectedInteractable: {fileID: 0}
+  m_StartingTargetFilter: {fileID: 0}
+  m_HoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_HoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_SelectEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_SelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_StartingHoverFilters: []
+  m_StartingSelectFilters: []
+  m_OnHoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnHoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnSelectEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnSelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_XROrigin: {fileID: 0}
+  m_RaycastMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RaycastTriggerInteraction: 1
+  m_ARSessionOrigin: {fileID: 0}
 --- !u!1 &1745951443
 GameObject:
   m_ObjectHideFlags: 0
